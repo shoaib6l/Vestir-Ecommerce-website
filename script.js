@@ -123,7 +123,7 @@ catogryBtn[1].addEventListener("click", function () {
     catogryProduct[2].querySelector("span").textContent = "Women Skirt";
 
     catogryProduct[3].querySelector("img").src = "https://houseoffett.com/cdn/shop/files/5_0965c1ff-b837-49e4-9f31-9754058e7a61_1800x1800.jpg?v=1749817911";
-    catogryProduct[3].querySelector("h4").textContent = "Women’s Elegant Partywear Gown";
+    catogryProduct[3].querySelector("h4").textContent = "Women’s Elegant Gown";
     catogryProduct[3].querySelector("span").textContent = "Women Gown";
 });
 
